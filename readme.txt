@@ -7,6 +7,11 @@ dev
 
 NWJS
 
+cordova
+
+electron
+
+
 git learn
 
 https://www.git-tower.com/learn/git/ebook/en/command-line/branching-merging/stashing#start
