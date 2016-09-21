@@ -77,14 +77,20 @@ left join
 	where ta.表名='ProcTask'
 
 	
-	
- 英雄联盟
- 
- 剑灵
- 
- 炫舞
- 
+	nativescript anzhuang,
+ http://www.bubuko.com/infodetail-677924.html
+ http://www.cnblogs.com/zhongxinWang/p/4329035.html
  
  Bootstrap 加上electron
  
  Cordova, Ionic, AngularJS
+ 
+ Vue.js he angularjs
+ 
+ E:\Item\iRMS
+ 
+ 8888
+ 
+ limiansuoyoudeneirong,
+ 
+ 
