@@ -101,3 +101,11 @@ http://www.cnblogs.com/shanyou/archive/2012/09/06/2674234.html
 http://www.cnblogs.com/artech/p/3506553.html
 
 http://www.cnblogs.com/landeanfen/p/5501487.html
+
+xianshidenglu,
+jquery moblile rumendaojiangtong
+http://download.csdn.net/detail/n2dx83uc2/7929977#comment
+
+google de tiaoshi,
+
+Responsive Admin Template
