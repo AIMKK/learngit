@@ -130,6 +130,8 @@ http://www.zhihu.com/question/34388831
 
 
 
+深圳寫字樓電話新總機號碼 :0755-22916676
+
 1，查号：*4 挂机（挂机后会响铃 并在屏上显示分机号）
 
 2，同事不再位置上，抢听：#1
@@ -142,14 +144,14 @@ http://www.zhihu.com/question/34388831
 
 
 
+\\192.168.122.2\Hroot\Public\Software\驱动
 
 
 
+EDraw Max
 
-
-
-
-
+git learn
+http://www.open-open.com/lib/view/open1420508778375.html
 
 
 
