@@ -16,22 +16,10 @@ git learn
 
 https://www.git-tower.com/learn/git/ebook/en/command-line/branching-merging/stashing#start
 
-现货的理解
-http://wenku.baidu.com/link?url=WM1ce6y1fYHMiReY91hkYxJD1NdaZiptkRBou2L5UnbFOqCfQnMw1eBuvojvqnR17mwLWLOodzFUN70PEAgBFgrWwj86fkXI2VYNFHcwyNW
 
 nodejs安装
 http://nodejs.org/download/，
 
-对冲机制是什么意思
-
-做市商模式的定义，
-通俗定义：同时向市场提供双向的买卖报价。
-
-上海期货交易所
-
-JavaScript入门经典(第4版)英文版
-
-JavaScript高级程序设计第3版
 
 
 select [列名],case when [類型]='varchar' or [類型]='nvarchar' then [類型]+'('+cast([長度] as nvarchar)+')' 
@@ -166,8 +154,8 @@ learn nodejs
 http://javascriptissexy.com/learn-node-js-completely-and-with-confidence/
 
 
-
-
+悟透js
+http://www.cnblogs.com/leadzen/archive/2008/02/25/1073404.html
 
 
 
