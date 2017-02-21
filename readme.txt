@@ -159,8 +159,8 @@ http://www.cnblogs.com/leadzen/archive/2008/02/25/1073404.html
 
 
 
-
-
+front-end dev skills
+http://lib.csdn.net/kittyjie/365772/chart/Front-End%20Dev%20Skills
 
 
 
