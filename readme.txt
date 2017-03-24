@@ -151,7 +151,7 @@ http://www.open-open.com/lib/view/open1420508778375.html
 
 important
 learn nodejs
-http://javascriptissexy.com/learn-node-js-completely-and-with-confidence/
+archive 
 
 
 悟透js
@@ -165,3 +165,10 @@ http://lib.csdn.net/kittyjie/365772/chart/Front-End%20Dev%20Skills
 
  赵锦江
 http://jiongks.name/all-demos/
+
+
+
+高并发，队列
+http://blog.csdn.net/hxl1995/article/details/52488195
+http://mp.weixin.qq.com/s?__biz=MzIwODA4NjMwNA==&mid=2652897931&idx=1&sn=36a2e7fc1ea619bf985a1b873447cc33&scene=21#wechat_redirect
+
