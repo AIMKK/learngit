@@ -172,3 +172,14 @@ http://jiongks.name/all-demos/
 http://blog.csdn.net/hxl1995/article/details/52488195
 http://mp.weixin.qq.com/s?__biz=MzIwODA4NjMwNA==&mid=2652897931&idx=1&sn=36a2e7fc1ea619bf985a1b873447cc33&scene=21#wechat_redirect
 
+
+先把数据保存进去，
+
+然后，进行处理等待，结果，
+
+
+
+
+绿色===
+232, 245, 185
+
